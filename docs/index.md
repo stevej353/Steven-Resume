@@ -1,42 +1,56 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Steven Johnson's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Steven Johnson
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="stevej353@gmail.com">stevej353@gmail.com</a>
+| <a href="https://www.linkedin.com/in/stevenjohnson353/">LinkedIn</a>
+| <a>(510) 821-4355</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`January 2018 - April 2022`
 
-- Full academic scholarship with 4.0 GPA
+__Brigham Young University-Idaho__, 
+Rexburg, ID
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+Minor in Data Science
+- Intermediate Statistics
+- Spreadsheet Analysis for Business
+- Introduction to Databases
+- Data Wrangling and Visualization
 
-- 4.0 Major GPA
+
+## Skills
+-----
+
+- Excel based data analytics (VLOOKUP, VBA Macros, Web Queries)
+- SQL (Designing databases and basic commands including JOIN) 
+- Power BI 
+- Tableau 
+- Python 
 
 
-## Related Experience
 
-### Internships
+-----
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+## Experience
+
+`June 2021-Current`
+__QURE Healthcare__, San Francisco, CA
+
+*Analytics and Business Development Intern*
+
+- Compiled actionable reports and suggestions from datasets with more than 3 million rows and 30 columns.
+- Automated the cleaning and preparation of text data
+- Lead a project to introduce Natural Language Processing and machine learning to text data.
+- Designed the backend for a website and used php and html to allow users to query a SQL database.
+
 
 ### Data Science Lead
 
@@ -70,15 +84,6 @@ __Pinnacle Management Group__,
 - Built and documented differences of PowerBI, Google Dashoards, and Tableau.
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
