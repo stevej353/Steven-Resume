@@ -12,6 +12,7 @@ title: Steven Johnson's Resume
 </div>
 
 ## Education
+-----
 
 `January 2018 - April 2022`
 
@@ -35,56 +36,44 @@ Minor in Data Science
 - Python 
 
 
+## Experience
 
 -----
 
 
-## Experience
+__*Analytics and Business Development Intern*__
 
-`June 2021-Current`
 __QURE Healthcare__, San Francisco, CA
 
-*Analytics and Business Development Intern*
+`June 2021-Current`
 
 - Compiled actionable reports and suggestions from datasets with more than 3 million rows and 30 columns.
 - Automated the cleaning and preparation of text data
 - Lead a project to introduce Natural Language Processing and machine learning to text data.
 - Designed the backend for a website and used php and html to allow users to query a SQL database.
 
+__*Team Member*__
 
-### Data Science Lead
+__Whole Foods Market__, Mill Valley, CA
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`May 2018-Sept. 2020`
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Efficiently unloaded 4-6 pallets of product each morning before the store opened or within 30 minutes of opening.
+- Re-introduced the inventory system and held team trainings on the process while simultaneously training 5 new team members.  This resulted in more effective customer service and raised the store inventory score from ‘Poor’ to ‘Good’ on the regional inventory scale.
+
+
+
+
+__*Assistant Waterfront Director / Lifeguard*__
+
+__Camp Marin Sierra__, Nevada City, CA
 
 `September 2027 - April 2028`
-__Good2Go__, Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
+- Provided one hour of trainings each week to 5 lifeguards. Over two years, reduced major incidences to 0.
+- Reduced our teams’ shallow water back boarding time from 20 minutes down to 7 and a half minutes in 4 weeks by setting goals for the team, keeping track of their progress, and demonstrating the required skills.
+- Improved written procedures to increase productivity and implemented scheduling to comply with work laws.
+- Collected and protected confidentiality of private medical and personal data of minors.
 
 
 <!-- ### Footer
