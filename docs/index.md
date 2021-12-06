@@ -76,8 +76,4 @@ __Camp Marin Sierra__, Nevada City, CA
 - Collected and protected confidentiality of private medical and personal data of minors.
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
 
