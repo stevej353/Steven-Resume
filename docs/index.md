@@ -68,7 +68,7 @@ __*Assistant Waterfront Director / Lifeguard*__
 
 __Camp Marin Sierra__, Nevada City, CA
 
-`September 2027 - April 2028`
+`June 2013 - August 2015`
 
 - Provided one hour of trainings each week to 5 lifeguards. Over two years, reduced major incidences to 0.
 - Reduced our teams’ shallow water back boarding time from 20 minutes down to 7 and a half minutes in 4 weeks by setting goals for the team, keeping track of their progress, and demonstrating the required skills.
