@@ -61,7 +61,8 @@ output:
 >>>>>`May 2018-Sept. 2020`
 
 >>>>>- Efficiently unloaded 4-6 pallets of product each morning before the store opened or within 30 minutes of opening.
->>>>>- Re-introduced the inventory system and held team trainings on the process while simultaneously training 5 new team members.  This resulted in more effective customer service and raised the store inventory score from ‘Poor’ to ‘Good’ on the regional inventory scale.
+>>>>>- Re-introduced the inventory system and held team trainings on the process while simultaneously training 5 new team members. \
+ This resulted in more effective customer service and raised the store inventory score from ‘Poor’ to ‘Good’ on the regional inventory scale.
 
 >>>>>__*Assistant Waterfront Director / Lifeguard*__
 
