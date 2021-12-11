@@ -40,7 +40,6 @@ output:
 >>>>>- Python 
 
 >>>>>## Experience
-
 -----
 
 >>>>>__*Analytics and Business Development Intern*__
