@@ -1,6 +1,9 @@
 ---
 layout: cv
 title: Steven Johnson's Resume
+output:
+    html_document:
+        theme: paper
 ---
 
 
